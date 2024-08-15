@@ -1,5 +1,12 @@
-## E-Commerce Clothing Store Application [https://main--peppy-lebkuchen-4e89ba.netlify.app/]
+## E-Commerce Clothing Store Application [https://e-commerce-clothing-store.netlify.app]
 
-### To create it I have used the following:
+### This is an e-commerce website for selling clothing for which I have used the following:
 
-### Built with _React_ & _Firebase_
+### - _React_
+### - _Redux_
+### - _Logging Middleware_
+### - _Styled Components_ 
+### - _Firebase Authentication_
+### - _Firebase Firestore Database_
+
+### I have also used a Service Worker to make the app a PWA (Progressive Web App), which can be accessed offline
